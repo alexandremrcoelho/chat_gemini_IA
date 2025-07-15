@@ -8,7 +8,7 @@ const fileInfo = document.getElementById('fileInfo');
 const removeImageButton = document.getElementById('removeImage');
 
 // Configuração da API
-const GEMINI_API_KEY = 'AIzaSyAVP2Y1MdM34qJa24I1ueSkDukifTZ_dZ0';
+const GEMINI_API_KEY = 'AIzaSyAhphKLk9lolNWw_-4X5fnLiNBfMs9y0nU';
 const MODEL = 'gemini-2.5-flash';
 
 let selectedImage = null;
